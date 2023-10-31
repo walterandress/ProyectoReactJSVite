@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <NavBar />
-      <ItemListContainer greeting = "Bienvenidos" />
+      <ItemListContainer greeting = "Bienvenidos (no se como cambiarle el estilo a bootstrap dentro de React, proxima entrega le hago el CSS a mano, no me dio el tiempo <3)" />
     </>  
   )
 }
