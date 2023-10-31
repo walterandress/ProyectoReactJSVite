@@ -1,0 +1,48 @@
+body {
+  background: #fff1c8;
+}
+
+.barra {
+  background-color: #e56157;
+}
+
+.title {
+  color: #fff1c8;
+  text-decoration: none;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.botones {
+  color:#fff1c8;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#collapsible-nav-dropdown {
+  color:#fff1c8;
+  padding: 20px 0px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.bi-cart-check-fill {
+  color:#fff1c8;
+}
+
+span {
+  color: #fff1c8;
+  padding-left: 4px;
+}
+
+.greeting {
+  color: #4194bc;
+  text-decoration: none;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 90px;
+  cursor: pointer;
+}
