@@ -19,10 +19,8 @@ export const NavBar = () => {
             <NavDropdown.Item href="#action/3.2">Libretas</NavDropdown.Item>
             <NavDropdown.Item href="#action/3.3">Organizadores</NavDropdown.Item>
             <NavDropdown.Item href="#action/3.3">Cuadernos</NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.3">Lapiceros</NavDropdown.Item>
             <NavDropdown.Item href="#action/3.3">Atrapasueños</NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.3">Gomitas de pelo</NavDropdown.Item>
-            <NavDropdown.Item href="#action/3.3">Tejidos en hilo</NavDropdown.Item>
+            <NavDropdown.Item href="#action/3.3">Tejidos a crochet</NavDropdown.Item>
           </NavDropdown>
         </Nav>
         <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-cart-check-fill" viewBox="0 0 16 16">
